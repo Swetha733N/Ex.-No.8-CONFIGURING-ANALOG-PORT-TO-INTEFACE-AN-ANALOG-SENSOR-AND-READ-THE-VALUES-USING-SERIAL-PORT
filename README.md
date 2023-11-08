@@ -2,13 +2,17 @@
 
 
 ### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
+
+
 ## Date: 
-###  
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
+
 ## Components required:
+
 STM 32 CUBE IDE , STM32 NUCLEO BOARD, CONNECTING CABLE, SERIAL PORT UTILITY , ANALOG SENSOR - 3.3V TYPE 
+
  ## Theory 
 
  
@@ -150,6 +154,7 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 
 ##  Program :
+
 ```
 DEVELOPED BY : Swetha N
 REG NO : 212222110050
@@ -187,13 +192,19 @@ PUTCHAR_PROTOTYPE
 }
 ```
 ## Result :
+
 ### Board Settings and its connections :
+
 ![281012621-3aa0a5fa-c6cb-4abb-bb5e-9e6f3f1342ba](https://github.com/Swetha733N/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122199934/3f313271-39b8-4e25-b23a-306aac8026ec)
 ![281012731-eb536fb0-c5e0-4c50-aa5c-27f8f8dea7c9](https://github.com/Swetha733N/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122199934/ea8f601f-e569-4b9c-a873-7b2b342cc7c8)
 ![281012820-b0c57f9d-9e75-4f35-8712-3f3d37345aaa](https://github.com/Swetha733N/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122199934/1ae1fd02-92e7-4187-aff2-3636a8374cc1)
+
 ### Normal ADC Value :
+
 ![281012996-892c3186-aebf-4636-82d0-e85f5b8922de](https://github.com/Swetha733N/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122199934/687750b1-066b-437a-b2d6-9b19c4addbbe)
+
 ### After Light Dipping of soil-moisture-sensor-device in water :
+
 ![281013231-6ea2e2ff-ce17-4301-9591-7dec85dea646](https://github.com/Swetha733N/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122199934/af6afe9b-93a8-4f38-9b0a-16b3737c1f9b)
 ![281013331-0bffd411-a95f-4736-b1a5-0d3bd5913754](https://github.com/Swetha733N/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122199934/56d74ba2-6109-48e7-adc6-1e27ca13dfd9)
  
